@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mapeaks",
+    "url": "https://mapeaks-production.herokuapp.com/ping",
+    "slug": "mapeaks",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 77
+  },
+  {
+    "name": "Oxidizer",
+    "url": "https://oxidizer.rs",
+    "slug": "oxidizer",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 231
+  },
+  {
+    "name": "Runlet",
+    "url": "https://runlet.app",
+    "slug": "runlet",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 94
+  },
+  {
+    "name": "Sentineo",
+    "url": "https://sentineo.app",
+    "slug": "sentineo",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 151
+  }
+]
