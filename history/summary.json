@@ -5,7 +5,7 @@
     "slug": "mapeaks",
     "status": "up",
     "uptime": "100.00%",
-    "time": 87
+    "time": 88
   },
   {
     "name": "Oxidizer",
@@ -13,7 +13,7 @@
     "slug": "oxidizer",
     "status": "up",
     "uptime": "100.00%",
-    "time": 310
+    "time": 280
   },
   {
     "name": "Runlet",
@@ -21,7 +21,7 @@
     "slug": "runlet",
     "status": "up",
     "uptime": "100.00%",
-    "time": 126
+    "time": 133
   },
   {
     "name": "Sentineo",
@@ -29,6 +29,6 @@
     "slug": "sentineo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 175
+    "time": 157
   }
 ]
