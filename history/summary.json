@@ -5,7 +5,15 @@
     "slug": "mapeaks",
     "status": "up",
     "uptime": "100.00%",
-    "time": 87
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 82,
+    "timeDay": 52,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82
   },
   {
     "name": "Oxidizer",
@@ -13,7 +21,15 @@
     "slug": "oxidizer",
     "status": "up",
     "uptime": "100.00%",
-    "time": 300
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 294,
+    "timeDay": 262,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294
   },
   {
     "name": "Runlet",
@@ -21,7 +37,15 @@
     "slug": "runlet",
     "status": "up",
     "uptime": "100.00%",
-    "time": 155
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 146,
+    "timeDay": 96,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146
   },
   {
     "name": "Sentineo",
@@ -29,6 +53,14 @@
     "slug": "sentineo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 198
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 191,
+    "timeDay": 153,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191
   }
 ]
