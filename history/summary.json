@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 112,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86
+    "time": 89,
+    "timeDay": 110,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89
   },
   {
     "name": "Oxidizer",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 213,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282
+    "time": 296,
+    "timeDay": 390,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296
   },
   {
     "name": "Runlet",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 214,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156
+    "time": 153,
+    "timeDay": 131,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153
   },
   {
     "name": "Sentineo",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 192,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191
+    "time": 193,
+    "timeDay": 212,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193
   }
 ]
