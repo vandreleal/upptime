@@ -2,6 +2,7 @@
   {
     "name": "Mapeaks",
     "url": "https://mapeaks-production.herokuapp.com/ping",
+    "icon": "https://favicons.githubusercontent.com/mapeaks-production.herokuapp.com",
     "slug": "mapeaks",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 42,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84
+    "time": 83,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 83,
+    "timeYear": 83,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oxidizer",
     "url": "https://oxidizer.rs",
+    "icon": "https://favicons.githubusercontent.com/oxidizer.rs",
     "slug": "oxidizer",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 210,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286
+    "time": 281,
+    "timeDay": 230,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Runlet",
     "url": "https://runlet.app",
+    "icon": "https://favicons.githubusercontent.com/runlet.app",
     "slug": "runlet",
     "status": "up",
     "uptime": "100.00%",
@@ -42,14 +47,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 124,
-    "timeWeek": 149,
+    "timeDay": 146,
+    "timeWeek": 156,
     "timeMonth": 149,
-    "timeYear": 149
+    "timeYear": 149,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sentineo",
     "url": "https://sentineo.app",
+    "icon": "https://favicons.githubusercontent.com/sentineo.app",
     "slug": "sentineo",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 158,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189
+    "time": 181,
+    "timeDay": 104,
+    "timeWeek": 191,
+    "timeMonth": 181,
+    "timeYear": 181,
+    "dailyMinutesDown": {}
   }
 ]
