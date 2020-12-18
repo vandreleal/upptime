@@ -58,19 +58,19 @@
     "url": "https://sentineo.app",
     "icon": "https://favicons.githubusercontent.com/sentineo.app",
     "slug": "sentineo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 206,
-    "timeWeek": 259,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 213,
+    "timeDay": 312,
+    "timeWeek": 279,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2020-12-18": 0
+      "2020-12-18": 17
     }
   }
 ]
