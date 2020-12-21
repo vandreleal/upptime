@@ -4,19 +4,19 @@
     "url": "https://mapeaks-production.herokuapp.com/ping",
     "icon": "https://favicons.githubusercontent.com/mapeaks-production.herokuapp.com",
     "slug": "mapeaks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 76,
-    "timeWeek": 80,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 95,
+    "timeDay": 98,
+    "timeWeek": 85,
+    "timeMonth": 95,
+    "timeYear": 95,
     "dailyMinutesDown": {
-      "2020-12-21": 0
+      "2020-12-21": 34
     }
   },
   {
