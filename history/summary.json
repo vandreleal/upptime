@@ -26,36 +26,40 @@
     "url": "https://oxidizer.rs",
     "icon": "https://favicons.githubusercontent.com/oxidizer.rs",
     "slug": "oxidizer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 292,
-    "timeWeek": 373,
-    "timeMonth": 318,
+    "timeDay": 233,
+    "timeWeek": 348,
+    "timeMonth": 314,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Runlet",
     "url": "https://runlet.app",
     "icon": "https://favicons.githubusercontent.com/runlet.app",
     "slug": "runlet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 141,
-    "timeWeek": 172,
-    "timeMonth": 153,
+    "timeDay": 115,
+    "timeWeek": 161,
+    "timeMonth": 151,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Sentineo",
